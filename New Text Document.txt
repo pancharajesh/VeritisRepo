@@ -1,0 +1,14 @@
+tell me smth abt yourself
+I am a Linux UNIX admin here at ABC Financial services inc
+I have been working here for over a year and a half and am currently 
+approaching the end of my project
+My daily tasks involve solving tickets. we are using ServiceNow for that.
+after that checking for any pings on slack and we use JIRA for any requests.
+With all those my tasks would be to check filesystems , 
+monitor the Veritas clusters, check logs for which we use nagios, 
+monitore Solaris cluster nodes for failback and failover
+attend daily meetings and provide daily updates
+patch, or upgrade machines if need be
+we have about 400+ production solaris nodes which we are trying to upgrade from solaris 10 to 11. 
+and i also work with tools like puppet, jenkins, docker
+I support the puppet team with writing puppet modules and help in the CICD pipeline for automated build, release and test phases. 
